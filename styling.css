@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input[type="submit"]{
+    font-weight: bold;
+    color: #2936e2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    background-color: #8ad2ee;
+    padding: 9px 9px 9px 8px;
+    width:35%;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+}
+input[type="radio"]{
+    cursor: pointer;
+}
+input[type="text"]{
+    width: 35%;
+    border-style: ridge;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 9px 9px 9px 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type="password"]{
+    width: 35%;
+    border-style: ridge;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 9px 9px 9px 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type="submit"]:hover{
+    background-color: rgb(243, 101, 101);
+}
+input[type="date"]{
+    width: 15%;
+    border-style: ridge;
+    border-radius: 5px;
+    cursor: text;
+    padding: 9px 9px 9px 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    padding: 10px;
+    height: 85%;
+    background-color: #e6de9f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
